@@ -9,6 +9,9 @@ module BeEF
   end
 end
 
+
+ #comment
+
 # @note Include the filters
 require 'core/filters/base'
 require 'core/filters/browser'
